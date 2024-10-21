@@ -1,0 +1,20 @@
+D:\Проекты Visual\sozdanie menu\sozdanie menu\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Проекты Visual\sozdanie menu\sozdanie menu\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Проекты Visual\sozdanie menu\sozdanie menu\obj\Debug\net8.0-windows\App.g.cs
+D:\Проекты Visual\sozdanie menu\sozdanie menu\obj\Debug\net8.0-windows\sozdanie menu_MarkupCompile.cache
+D:\Проекты Visual\sozdanie menu\sozdanie menu\obj\Debug\net8.0-windows\sozdanie menu.g.resources
+D:\Проекты Visual\sozdanie menu\sozdanie menu\obj\Debug\net8.0-windows\sozdanie menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты Visual\sozdanie menu\sozdanie menu\obj\Debug\net8.0-windows\sozdanie menu.AssemblyInfoInputs.cache
+D:\Проекты Visual\sozdanie menu\sozdanie menu\obj\Debug\net8.0-windows\sozdanie menu.AssemblyInfo.cs
+D:\Проекты Visual\sozdanie menu\sozdanie menu\obj\Debug\net8.0-windows\sozdanie menu.csproj.CoreCompileInputs.cache
+D:\Проекты Visual\sozdanie menu\sozdanie menu\bin\Debug\net8.0-windows\sozdanie menu.exe
+D:\Проекты Visual\sozdanie menu\sozdanie menu\bin\Debug\net8.0-windows\sozdanie menu.deps.json
+D:\Проекты Visual\sozdanie menu\sozdanie menu\bin\Debug\net8.0-windows\sozdanie menu.runtimeconfig.json
+D:\Проекты Visual\sozdanie menu\sozdanie menu\bin\Debug\net8.0-windows\sozdanie menu.dll
+D:\Проекты Visual\sozdanie menu\sozdanie menu\bin\Debug\net8.0-windows\sozdanie menu.pdb
+D:\Проекты Visual\sozdanie menu\sozdanie menu\obj\Debug\net8.0-windows\sozdanie menu.dll
+D:\Проекты Visual\sozdanie menu\sozdanie menu\obj\Debug\net8.0-windows\refint\sozdanie menu.dll
+D:\Проекты Visual\sozdanie menu\sozdanie menu\obj\Debug\net8.0-windows\sozdanie menu.pdb
+D:\Проекты Visual\sozdanie menu\sozdanie menu\obj\Debug\net8.0-windows\sozdanie menu.genruntimeconfig.cache
+D:\Проекты Visual\sozdanie menu\sozdanie menu\obj\Debug\net8.0-windows\ref\sozdanie menu.dll
+D:\Проекты Visual\sozdanie menu\sozdanie menu\obj\Debug\net8.0-windows\sozdanie menu_MarkupCompile.lref

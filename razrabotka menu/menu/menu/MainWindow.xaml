@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WPF-приложение" Height="350" Width="525">
+    <DockPanel>
+        <!-- Панель инструментов -->
+        <ToolBar DockPanel.Dock="Top">
+            <Button Name="ChangeColorButton" Content="Изменить цвет" Click="ChangeColor_Click" ToolTip="Изменить цвет фона окна" MouseEnter="ShowStatusBarMessage" MouseLeave="ClearStatusBarMessage"/>
+            <Button Name="DeveloperInfoButton" Content="О разработчике" Click="DeveloperInfo_Click" ToolTip="Информация о разработчике" MouseEnter="ShowStatusBarMessage" MouseLeave="ClearStatusBarMessage"/>
+            <Button Name="CloseButton" Content="Закрыть" Click="Close_Click" ToolTip="Закрыть окно" MouseEnter="ShowStatusBarMessage" MouseLeave="ClearStatusBarMessage"/>
+        </ToolBar>
+
+        <!-- Строка состояния -->
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBarItem>
+                <TextBlock Name="StatusBarText" Text="Готово"/>
+            </StatusBarItem>
+        </StatusBar>
+
+        <!-- Меню -->
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Файл">
+                <MenuItem Header="Изменить цвет" Click="ChangeColor_Click" MouseEnter="ShowStatusBarMessage" MouseLeave="ClearStatusBarMessage"/>
+                <Separator />
+                <MenuItem Header="О разработчике" Click="DeveloperInfo_Click" MouseEnter="ShowStatusBarMessage" MouseLeave="ClearStatusBarMessage"/>
+                <Separator />
+                <MenuItem Header="Выход" Click="Close_Click" MouseEnter="ShowStatusBarMessage" MouseLeave="ClearStatusBarMessage"/>
+            </MenuItem>
+        </Menu>
+
+        <!-- Дополнительное содержимое окна -->
+        <Grid>
+            <!-- Здесь может быть размещено основное содержимое окна -->
+        </Grid>
+    </DockPanel>
+</Window>
+
+
